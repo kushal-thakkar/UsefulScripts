@@ -1,0 +1,12 @@
+cassandra01.ltvp.ev1.inmobi.com:7199
+cassandra02.ltvp.ev1.inmobi.com:7199
+cassandra03.ltvp.ev1.inmobi.com:7199
+cassandra04.ltvp.ev1.inmobi.com:7199
+cassandra05.ltvp.ev1.inmobi.com:7199
+cassandra06.ltvp.ev1.inmobi.com:7199
+cassandra07.ltvp.ev1.inmobi.com:7199
+cassandra08.ltvp.ev1.inmobi.com:7199
+cassandra09.ltvp.ev1.inmobi.com:7199
+cassandra10.ltvp.ev1.inmobi.com:7199
+cassandra11.ltvp.ev1.inmobi.com:7199
+cassandra12.ltvp.ev1.inmobi.com:7199
